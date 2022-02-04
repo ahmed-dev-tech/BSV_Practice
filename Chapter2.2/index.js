@@ -27,17 +27,3 @@ var P = G.mul(p)
 // console.log(hash1.toString('hex'))
 
 
-var string = "my random string"
-var base58 = bsv.Base58.fromBuffer(Buffer.from(string)).toString()
-console.log(base58)
-var base58Check = bsv.Base58Check.fromBuffer(Buffer.from(string)).toString()
-console.log(base58Check)
-
-var base58 = 'EX4GGfMqowb3SahgwQS6bg'
-
-var buf = bsv.Base58.fromString(base58).toBuffer()
-console.log(buf.toString())
-
-var base58check = '2XTb6Gp8zqqq1g5ED7YDsUXom9an'
-var buf = bsv.Base58Check.fromString(base58check).toBuffer()
-console.log(buf.toString())

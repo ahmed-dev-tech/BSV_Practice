@@ -1,0 +1,6 @@
+digit,DT,1,result,IDENTIFIER,1,=,Assign,1,a,IDENTIFIER,1,punctuator,(,1,punctuator,),1,punctuator,.,1,aa123aaa,IDENTIFIER,1, ,
+,1,point,DT,2,result,IDENTIFIER,2,=,Assign,2,150.11,FLOAT CONSTANT,2,.111aaaaa,FLOAT CONSTANT,2, ,
+,2,digit,DT,3,result,IDENTIFIER,3,=,Assign,3,200,INTEGER CONSTANT,3, ,
+,3,digit,DT,4,result,IDENTIFIER,4,=,Assign,4,300,INTEGER CONSTANT,4, ,
+,4,digit,DT,5,result,IDENTIFIER,5,=,Assign,5,400,INTEGER CONSTANT,5, ,
+,5,
